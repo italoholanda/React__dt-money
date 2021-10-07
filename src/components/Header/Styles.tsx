@@ -18,7 +18,7 @@ export const Content = styled.div`
 		color: #fff;
 		background: var(--blue-light);
 		border-color: transparent;
-		border-radius: 5px;
+		border-radius: 0.25rem;
 		padding: 0.5rem 1rem;
 		transition: filter 0.4s;
 	}
